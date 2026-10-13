@@ -1,0 +1,4 @@
+repository "Prueba_funcionamiento/Prueba_funcionamiento@6872892459847@cloud"
+  path "/"
+    br "/main"
+    co "/main"
